@@ -12,7 +12,7 @@
   1. Golang
   2. **TODO**: Rust
 ## 📫 Reach me through:
-  2. [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iker.camacho.h@gmail.com)
+  1. [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iker.camacho.h@gmail.com)
   2. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/iker-camacho-hita)
 
 <br/>
