@@ -13,7 +13,7 @@
   2. **TODO**: Rust
 <br/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Compare%20yourself%20to%20who%20you%20were%20yesterday%2C%20not%20to%20who%20someone%20else%20is%20today&author=Jordan%20B.%20Peterson)]()
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Compare%20yourself%20to%20who%20you%20were%20yesterday%2C%20not%20to%20who%20someone%20else%20is%20today&author=Jordan%20B.%20Peterson)]()
 ## 📫 Reach me through:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iker.camacho.h@gmail.com)
 <br/>
