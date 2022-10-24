@@ -49,6 +49,6 @@ Iker:
     - Azure
 ```
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=icamacho1&theme=dracula&hide_border=false)<br/>
+<!-- ## 📊 GitHub Stats: -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=icamacho1&theme=dracula&hide_border=false)<br/> -->
 
