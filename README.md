@@ -11,6 +11,9 @@
 - 🌱 I’m currently learning compiled languages:
   1. Golang
   2. **TODO**: Rust
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Compare%20yourself%20to%20who%20you%20were%20yesterday%2C%20not%20to%20who%20someone%20else%20is%20today&author=Jordan%20B.%20Peterson)]()
 ## 📫 Reach me through:
   1. [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iker.camacho.h@gmail.com)
   2. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/iker-camacho-hita)
@@ -50,5 +53,5 @@ Iker:
 ```
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=icamacho1&theme=dracula&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=icamacho1&theme=tokyonight&hide_border=false)
 
