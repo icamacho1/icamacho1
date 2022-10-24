@@ -1,15 +1,54 @@
+# 📖 About me:
 - 👋 Hi, I’m @icamacho1
 - 👀 I’m Software engineer by trade who loves cooking a weightlifting.
-- I am the kind of guy who is not afraid of digging into built in modules to expand the functionality or extract key features from them to later have more minimalistic packages and not depend on updates.
-- 🌱 I’m currently learning compiled languages for later implementation in cloud functions:
+- I am the kind of guy who has done almost everything on the book.
+  - CI/CD pipelines
+  - Shell scripting for server administration
+  - Rest APIs
+  - Frontend applications: 
+    - [Gofrendly Explore](https://explore.gofrendly.com)
+    - [Pan & Box](https://explore.gofrendly.com)
+- 🌱 I’m currently learning compiled languages:
   1. Golang
   2. **TODO**: Rust
-- 💞️ I’m currently collaborating with [pymacaron](https://github.com/pymacaron/pymacaron)
-- 📫 Reach me through:
-  1. [Email](mailto:iker.camacho.h@gmail.com)
-  2. [Linkedin](https://linkedin.com/in/iker-camacho-hita)
+## 📫 Reach me through:
+  2. [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iker.camacho.h@gmail.com)
+  2. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/iker-camacho-hita)
 
-<!---
-icamacho1/icamacho1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+## 💻 Tech Stack:
+```yaml
+Iker:
+  Languges:
+    - Python
+    - Typescript
+    - Bash
+    - Golang
+    - HTML & CSS
+
+  Technologies:
+    - Docker
+    - Kubernetes
+    - Bitbucket-pipelines & Github actions
+ 
+  Frameworks:
+    Python:
+      - Flask
+      - FastAPI
+    Typescript:
+      - Vue
+      - React
+      - Next
+      - Express
+    Golang:
+      - Gin
+
+  Cloud providers:
+    - GCP
+    - AWS
+    - Azure
+```
+
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=icamacho1&theme=dracula&hide_border=false)<br/>
+
