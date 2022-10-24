@@ -17,7 +17,7 @@
 
 <br/>
 ## 💻 Tech Stack:
-```yaml
+```yml
 Iker:
   Languges:
     - Python
