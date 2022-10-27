@@ -1,5 +1,5 @@
 # 📖 About me:
-- 👋 Hi, I’m @icamacho1
+- 👋 Hi, I’m [@icamacho1](https://icamacho1.github.io)
 - 👀 I’m Software engineer by trade who loves cooking a weightlifting.
 - I am the kind of guy who has done almost everything on the book.
   - CI/CD pipelines
@@ -7,7 +7,7 @@
   - Rest APIs
   - Frontend applications: 
     - [Gofrendly Explore](https://explore.gofrendly.com)
-    - [Pan & Box](https://explore.gofrendly.com)
+    - [Pan & Box](https://panandbox-web-r7wyqvzraq-ey.a.run.app/)
 - 🌱 I’m currently learning compiled languages:
   1. Golang
   2. **TODO**: Rust
