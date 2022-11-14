@@ -59,7 +59,5 @@ Iker:
 
 <div style="display:flex; flex-direction:column; align-items:center; gap:10px;">
   <img src="https://raw.githubusercontent.com/icamacho1/icamacho1/output/snake.svg" alt="Snake animation" />
-  <img src="https://profile-counter.glitch.me/icamacho1/count.svg?"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icamacho1&theme=tokyonight&hide_border=false"  />
-
 </div>
