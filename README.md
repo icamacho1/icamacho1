@@ -57,7 +57,8 @@ Iker:
 
 ## 📊 GitHub Stats:
 
-<div style="display:flex; flex-direction:column; align-items:center; gap:10px;">
+<div style="display:flex; flex-direction:column; align-items:center;">
   <img src="https://raw.githubusercontent.com/icamacho1/icamacho1/output/snake.svg" alt="Snake animation" />
+  <div style="padding-top:40px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icamacho1&theme=tokyonight&hide_border=false"  />
 </div>
